@@ -1042,6 +1042,7 @@ button:focus {
 	float: left;
 	margin-top: 50px;
 	width: 100%;
+	align-content: center;
 }
 
 .mu-sponsors-single {
@@ -1051,6 +1052,11 @@ button:focus {
 	margin-top: 10px;
 	margin-bottom: 15px;
 	width: 100%;
+	align-content: center;
+}
+
+.row {
+	align-content: center;
 }
 
 
